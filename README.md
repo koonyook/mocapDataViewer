@@ -4,7 +4,7 @@ This code allow you to visualize the dataset in 3D and navigate inside the captu
 
 Successfully compiled on Visual Studio 2015 on Windows 10 Creator Update.
 
-More details about the dataset and download like at https://koonyook.github.io/mocap_dataset/
+More details about the dataset and download link at https://koonyook.github.io/mocap_dataset/
 
 ## Navigation Control
 - Click at the display to start navigation, Esc to exit navigation.
