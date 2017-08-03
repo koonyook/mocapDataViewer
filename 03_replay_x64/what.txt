@@ -1,0 +1,1 @@
+try to simplify the replay program and make it only a viewer
