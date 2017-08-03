@@ -7,7 +7,8 @@ Successfully compiled on Visual Studio 2015 on Windows 10 Creator Update.
 More details about the dataset and download link at https://koonyook.github.io/mocap_dataset/
 
 ## Navigation Control
-- Click at the display to start navigation, Esc to exit navigation.
+- Click at the display to start navigation. 
+- Esc to exit navigation.
 - User cursor to look around.
 - '0' to reset perspective. 
 - Q W E
